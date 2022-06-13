@@ -25,6 +25,4 @@ public class LoadingActivity extends AppCompatActivity {
             finish();
         }, LOADING_SCREEN_TIMEOUT);
     }
-
-
 }
