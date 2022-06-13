@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Football tracker</string>
+    <string name="add_new_match">Add a match</string>
+    <string name="take_picture">Take a picture</string>
+</resources>
