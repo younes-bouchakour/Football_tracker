@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/youne/AndroidStudioProjects/Football_tracker/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.2225" />
+        <entry key="..\:/Users/youne/AndroidStudioProjects/Football_tracker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.168" />
+        <entry key="..\:/Users/youne/AndroidStudioProjects/Football_tracker/app/src/main/res/drawable/ic_psg_logo_background.xml" value="0.168" />
         <entry key="..\:/Users/youne/AndroidStudioProjects/Football_tracker/app/src/main/res/layout/activity_add_new_match.xml" value="0.4" />
         <entry key="..\:/Users/youne/AndroidStudioProjects/Football_tracker/app/src/main/res/layout/activity_loading.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/youne/AndroidStudioProjects/Football_tracker/app/src/main/res/layout/activity_main.xml" value="0.4" />
@@ -11,6 +13,7 @@
         <entry key="..\:/Users/youne/AndroidStudioProjects/Football_tracker/app/src/main/res/layout/activity_match_info.xml" value="0.2" />
         <entry key="..\:/Users/youne/AndroidStudioProjects/Football_tracker/app/src/main/res/layout/match_list_item.xml" value="0.1" />
         <entry key="..\:/Users/youne/AndroidStudioProjects/Football_tracker/app/src/main/res/menu/top_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/youne/AndroidStudioProjects/Football_tracker/app/src/main/res/mipmap-anydpi-v26/ic_ldc_logo.xml" value="0.1" />
       </map>
     </option>
   </component>

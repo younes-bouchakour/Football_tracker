@@ -30,6 +30,6 @@ public class MatchInfoActivity extends AppCompatActivity {
                 team2.setText(intent.getStringExtra("team2_name"));
                 team1Score.setText(intent.getStringExtra("team1_score"));
                 team2Score.setText(intent.getStringExtra("team2_score"));
-                location.setText(intent.getStringExtra("location_address"));
+                location.setText(intent.getStringExtra("match_location"));
     }
 }

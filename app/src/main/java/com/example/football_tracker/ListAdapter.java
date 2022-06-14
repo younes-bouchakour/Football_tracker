@@ -36,19 +36,19 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.MyViewHolder> 
         final Match match = matchList.get(position);
         holder.bindData(match);
 
-        /*holder.relativeLayout.setOnClickListener(v -> {
-            Intent intent = new Intent(context, MatchDetailsActivity.class);
+        holder.relativeLayout.setOnClickListener(v -> {
+            Intent intent = new Intent(context, MatchInfoActivity.class);
 
-            intent.putExtra("id", match.getId());
-            intent.putExtra("player1_name", match.getPlayer1());
-            intent.putExtra("player2_name", match.getPlayer2());
-            intent.putExtra("player1_match_score", match.getPlayer1_score());
-            intent.putExtra("player2_match_score", match.getPlayer2_score());
-            intent.putExtra("location", match.getLocations());
+            intent.putExtra("id", match.id);
+            intent.putExtra("team1_name", match.team1);
+            intent.putExtra("team2_name", match.team2);
+            intent.putExtra("team1_score", match.team1Score);
+            intent.putExtra("team2_score", match.team2Score);
+            intent.putExtra("match_location", match.location);
 
             intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             context.startActivity(intent);
-        });*/
+        });
     }
 
     @Override
